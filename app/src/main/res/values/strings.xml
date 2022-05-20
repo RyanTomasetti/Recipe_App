@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="recipeName">Recipe.Name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+</resources>
